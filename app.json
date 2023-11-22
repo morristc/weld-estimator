@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TheDeep",
-    "slug": "TheDeep",
+    "name": "WeldEstimator",
+    "slug": "WeldEstimator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/splash.png",
@@ -17,7 +17,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.morristc.TheDeep"
+      "bundleIdentifier": "com.morristc.WeldEstimator"
     },
     "android": {
       "adaptiveIcon": {
