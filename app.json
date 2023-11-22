@@ -4,7 +4,8 @@
     "slug": "TheDeep",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/splash.png",
+    "resizeMode": "cover",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -15,7 +16,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.morristc.TheDeep"
     },
     "android": {
       "adaptiveIcon": {
